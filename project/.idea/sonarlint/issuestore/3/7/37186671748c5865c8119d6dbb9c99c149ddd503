@@ -1,3 +1,8 @@
 
+i	java:S116"MRename this field "Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×­ÒÒ8¼áÎÌÜ1
 L
-java:S1068"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ8ÿØÁÌÜ1
+java:S1068"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ8ÀáÎÌÜ1
+I
+java:S1068",Remove this unused "apellido" private field.(åÔĞÁ8ÁáÎÌÜ1
+C
+java:S1068"&Remove this unused "Id" private field.(×­ÒÒ8ÁáÎÌÜ1
